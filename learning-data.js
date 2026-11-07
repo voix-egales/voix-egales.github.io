@@ -354,8 +354,8 @@ export const learning = {
         "en": "Would proportional representation make rural constituencies larger?"
       },
       "answer": {
-        "fr": "Pas automatiquement. Cela dépend du nombre de sièges locaux et du découpage retenu. Au Québec, la délimitation considère notamment l’accès, la superficie et les communautés naturelles. Nos scénarios conservent les circonscriptions de chaque élection (127 en 2026, 125 en 2022); ils ne proposent aucune nouvelle carte.",
-        "en": "Not automatically. It depends on the number of local seats and the chosen boundaries. Québec’s boundary rules consider access, area and natural communities, among other factors. Our scenarios keep each election’s constituencies (127 in 2026, 125 in 2022); they propose no new map."
+        "fr": "Pas automatiquement. Cela dépend du nombre de sièges locaux et du découpage retenu. Au Québec, la délimitation considère notamment l’accès, la superficie et les communautés naturelles. Nos adaptations étrangères conservent les circonscriptions de chaque élection (127 en 2026, 125 en 2022). Le scénario compensatoire à taille actuelle nécessiterait moins de circonscriptions locales; cette carte n’est pas simulée.",
+        "en": "Not automatically. It depends on the number of local seats and the chosen boundaries. Québec’s boundary rules consider access, area and natural communities, among other factors. Our foreign adaptations retain each election’s constituencies (127 in 2026, 125 in 2022). The current-size compensatory scenario would need fewer local constituencies; that map is not simulated."
       },
       "sourceIds": [
         "qc-boundaries",
@@ -415,8 +415,8 @@ export const learning = {
         "en": "If no party wins a majority, is a coalition required?"
       },
       "answer": {
-        "fr": "Pas automatiquement. Au Québec, un gouvernement doit conserver la confiance de l’Assemblée; il peut être minoritaire. Le 5 octobre 2026, aucun parti n’a obtenu de majorité : le PQ a remporté 59 des 127 sièges. En Allemagne, le Bundestag élit le chancelier. Les institutions et les accords entre partis comptent. Nos calculs ne prédisent ni le gouvernement formé ni sa stabilité; aucun gain de stabilité n’est garanti.",
-        "en": "Not automatically. In Québec, a government must retain the Assembly’s confidence; it can be a minority government. On 5 October 2026, no party won a majority: the PQ won 59 of 127 seats. In Germany, the Bundestag elects the Chancellor. Institutions and agreements between parties matter. Our calculations predict neither the government formed nor its stability; no stability benefit is guaranteed."
+        "fr": "Pas automatiquement. Au Québec, un gouvernement doit conserver la confiance de l’Assemblée; il peut être minoritaire. À l’élection du 5 octobre 2026, aucun parti n’a obtenu de majorité : après les dépouillements judiciaires, le PQ a remporté 60 des 127 sièges. En Allemagne, le Bundestag élit le chancelier. Les institutions et les accords entre partis comptent. Nos calculs ne prédisent ni le gouvernement formé ni sa stabilité; aucun gain de stabilité n’est garanti.",
+        "en": "Not automatically. In Québec, a government must retain the Assembly’s confidence; it can be a minority government. In the 5 October 2026 election, no party won a majority: after the judicial recounts, the PQ won 60 of 127 seats. In Germany, the Bundestag elects the Chancellor. Institutions and agreements between parties matter. Our calculations predict neither the government formed nor its stability; no stability benefit is guaranteed."
       },
       "sourceIds": [
         "qc-confidence",

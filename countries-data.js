@@ -32,12 +32,13 @@ export const countries = [
       "en": "A direct local representative and a simple count, but the distribution of seats can differ substantially from province-wide vote shares."
     },
     "footnote": {
-      "fr": "L’élection du 5 octobre 2026 a utilisé cette carte de 127 circonscriptions : PQ 59, PLQ 40, PCQ 19, QS 9, CAQ 0. L’élection de 2022 comptait 125 circonscriptions.",
-      "en": "The 5 October 2026 election used this 127-constituency map: PQ 59, PLQ 40, PCQ 19, QS 9, CAQ 0. The 2022 election had 125 constituencies."
+      "fr": "L’élection du 5 octobre 2026 a utilisé cette carte de 127 circonscriptions : PQ 60, PLQ 39, PCQ 19, QS 9, CAQ 0, après les dépouillements judiciaires. Résultats d’Élections Québec mis à jour le 26 octobre et vérifiés le 7 novembre 2026. L’élection de 2022 comptait 125 circonscriptions.",
+      "en": "The 5 October 2026 election used this 127-constituency map: PQ 60, PLQ 39, PCQ 19, QS 9, CAQ 0, after the judicial recounts. Élections Québec results updated on 26 October and checked on 7 November 2026. The 2022 election had 125 constituencies."
     },
     "sources": [
       { "label": "Élections Québec · Systèmes électoraux", "url": "https://www.electionsquebec.qc.ca/comprendre/comprendre-la-democratie-et-les-elections/les-systemes-electoraux-du-quebec/" },
-      { "label": "Élections Québec · Carte de 2026", "url": "https://www.electionsquebec.qc.ca/cartes-electorales/revision-de-la-carte-electorale-du-quebec/" }
+      { "label": "Élections Québec · Carte de 2026", "url": "https://www.electionsquebec.qc.ca/cartes-electorales/revision-de-la-carte-electorale-du-quebec/" },
+      { "label": "Élections Québec · Résultats 2026", "url": "https://www.electionsquebec.qc.ca/resultats-et-statistiques/resultats-generales/2026-10-05/" }
     ]
   },
   {
